@@ -1,0 +1,13 @@
+Scam Rakshak Daily Report - 2025-07-11 16:35:29.719988
+
+Protection Status: Active
+Threats Blocked: 0
+Last Scan: Never
+Blocked Sites: 2
+URL Checks: 0
+
+Blocked Sites List:
+- www.anydesk.com
+- www.roidstech.com
+
+Recent URL Checks:

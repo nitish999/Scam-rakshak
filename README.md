@@ -1,4 +1,4 @@
-# Scam rakshak Python Project
+# Anti_Scammer Python Project
 
 ## Overview
 
@@ -75,6 +75,3 @@ Anti_Scammer/
    python detect_services.py
    python unblock_sites.py
    ```
-
-# Scam-rakshak
-Scam Rakshak is a desktop application that helps protect users from online scams by blocking malicious websites, dangerous links, and suspicious URLs in real time. Built for proactive protection, it scans and prevents access to harmful content before it reaches the user, enhancing online safety and system integrity.

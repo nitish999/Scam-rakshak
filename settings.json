@@ -1,0 +1,17 @@
+{
+  "custom_blocked_sites": [
+    "www.anydesk.com",
+    "www.roidstech.com"
+  ],
+  "theme": "dark",
+  "autostart": true,
+  "notifications": true,
+  "sound_alerts": true,
+  "realtime_protection": true,
+  "auto_updates": true,
+  "scan_frequency": "Daily",
+  "auto_quarantine": true,
+  "log_level": "INFO",
+  "cpu_limit": "50",
+  "memory_limit": "512"
+}
