@@ -75,4 +75,4 @@ Anti_Scammer/
    python detect_services.py
    python unblock_sites.py
    ```
- # love from Nitish kalita
+ # love by Nitish kalita
